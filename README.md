@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Article Management System
 
 Laravel 10 ile geliştirilmiş, kullanıcı bazlı yetkilendirme ve kapsamlı feature test kapsamına sahip bir makale yönetim sistemi.
@@ -69,3 +70,6 @@ php artisan serve
 ## Öğrenme Süreci
 
 Bu proje, Laravel'i sıfırdan öğrenirken geliştirildi — HTTP request lifecycle, Eloquent ilişkileri, route model binding, middleware ve feature testing kavramları kavram-öncelikli (concept-first) bir yaklaşımla çalışılarak inşa edildi.
+=======
+# article-management-system
+>>>>>>> aa4fe601aaa0b3ccc5c6cc430999d857a36ae7d3
